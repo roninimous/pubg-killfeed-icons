@@ -1,25 +1,83 @@
-# Flags in PUBG killfeed by Ciseur
-## Flags with numbers in your killfeed
-This project provides files to customize your PUBG killfeed with flags instead of the default numbers.
+# 🎮 Customise Your PUBG Killfeed Icon with Flags!  
+Transform your PUBG killfeed with custom flag icons and numbers for better visibility and tracking.
 
-<img src="killfeed-preview.png" alt="PUBG killfeed with flags and numbers">
+---
 
-This is based on Kowo version shared on his [YouTube video](https://www.youtube.com/watch?v=8OWbQ_wXhpk). The order of flags is consistent, so you can play with someone using his version.
+## 📖 About This Project  
 
-Loved the idea of flags. They are easier to remember and always liked them. I created this project to improve the readability and add numbers to provide compatibility if you play with people not using the flags.
+By default, PUBG killfeed icons come with colors and numbers. While this is functional, some colors can be repetitive, making it harder to track kills effectively. To solve this, PUBG developers introduced a feature for tournaments to allow custom team logos in the killfeed.  
 
-The flags are from [kapowaz](https://kapowaz.github.io/square-flags/).
+However, official references for implementing these custom icons were scarce, so I decided to create my own custom icons for easier identification. While exploring this idea, I discovered a fantastic repository on Reddit by [Ciseur](https://github.com/Ciseur/ciz-pubg-killfeed-flags), who had already implemented flag icons and numbers.  
 
-## Install
-To get flags in your PUBG killfeed:
+For now, I'll use these flag icons until I finalise my custom designs. Flags offer an intuitive way to differentiate teams, making tracking kills much easier at a glance.  
 
-1. Download the [most recent archive on github](https://github.com/Ciseur/ciz-pubg-killfeed-flags/releases)
-2. Open your windows file explorer and go to %LOCALAPPDATA%\TslGame\Saved
-3. Paste "Observer" directory there (it musts contains "TeamInfo.csv" file and the "TeamIcon" directory)
-4. Restart PUBG
-5. Profit
+---
 
-## List of flags with names
+### Before & After Preview  
+
+**Default Killfeed Icons:**  
+![PUBG default killfeed](preview-before.png)  
+
+**Killfeed Icons with Flags and Numbers:**  
+![PUBG killfeed with flags and numbers](preview-after.png)  
+
+The flags are ordered consistently from team #1 to team #50 for clarity.
+
+---
+
+## 🚀 Features  
+
+- **Enhanced Visibility**: Use flag icons for quicker killfeed recognition.
+- **Consistent Ordering**: Flags are mapped from team #1 to #50.  
+- **Customisable**: Easily replace the flag icons with your own designs (coming soon with custom logos!).  
+
+---
+
+## 📥 Installation Guide  
+
+Follow these simple steps to customise your PUBG killfeed with flag icons:  
+
+1. **Download the Files**  
+   - Go to the [GitHub repository](https://github.com/roninimous/pubg-killfeed-icons/tree/main/Observer) and download the `Observer` folder.  
+
+2. **Locate the Directory**  
+   - Open Windows File Explorer and navigate to:  
+     ```
+     %LOCALAPPDATA%\TslGame\Saved
+     ```
+![Directory Path](navigation.png)  
+3. **Paste the Files**  
+   - Paste the entire `Observer` folder you downloaded into the above directory.  
+
+4. **Restart PUBG**  
+   - Launch PUBG and enjoy your new killfeed icons!  
+
+5. **Celebrate**  
+   - Winner Winner Chicken Dinner! 🐔  
+
+---
+
+## 📌 Future Plans  
+
+While flags make killfeeds easier to track, I believe custom-designed icons can enhance the experience even further. I plan to work on unique, easy-to-recognize icons in collaboration with a designer. Stay tuned for updates!  
+
+---
+
+## 🤝 Credits  
+
+- **Flag Icons and Repository**: [Ciseur](https://github.com/Ciseur/ciz-pubg-killfeed-flags)  
+- **Original Concept**: PUBG Developer Team  
+
+---
+
+## 📜 License  
+
+This project is open source and follows the licensing terms of [Ciseur's repository](https://github.com/Ciseur/ciz-pubg-killfeed-flags).  
+
+---
+
+## 🌍 List of Flags with Team Numbers  
+
 
 |||||
 | -- | -- | -- | -- |
@@ -36,3 +94,6 @@ To get flags in your PUBG killfeed:
 |<img alt="Scotland" src="Observer/TeamIcon/41-GB-SCT.png"> Scotland|<img alt="Kazakhstan" src="Observer/TeamIcon/42-KAZ.png"> Kazakhstan|<img alt="Ireland" src="Observer/TeamIcon/43-IRL.png"> Ireland|<img alt="Algeria" src="Observer/TeamIcon/44-DZA.png"> Algeria|
 |<img alt="Romania" src="Observer/TeamIcon/45-ROU.png"> Romania|<img alt="Angola" src="Observer/TeamIcon/46-AGO.png"> Angola|<img alt="Bahamas" src="Observer/TeamIcon/47-BHS.png"> Bahamas|<img alt="Greenland" src="Observer/TeamIcon/48-GRL.png"> Greenland|
 |<img alt="Olympics" src="Observer/TeamIcon/49-OLY.png"> Olympics|<img alt="Pirate" src="Observer/TeamIcon/50-PIR.png"> Pirate|
+
+
+
