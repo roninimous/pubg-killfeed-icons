@@ -38,21 +38,25 @@ The flags are ordered consistently from team #1 to team #50 for clarity.
 Follow these simple steps to customise your PUBG killfeed with flag icons:  
 
 1. **Download the Files**  
-   - Go to the [GitHub repository](https://github.com/roninimous/pubg-killfeed-icons/tree/main/Observer) and download the `Observer` folder.  
+   - Go to the [latest release](https://github.com/roninimous/pubg-killfeed-icons/releases/tag/v1.0.0) and download the `Source code (zip)`.  
 
-2. **Locate the Directory**  
+2. **Unzip the "Source code (zip)"**  
+   - Unzip the `Source code (zip)` and copy `Observer` folder.  
+
+3. **Locate the Directory**  
    - Open Windows File Explorer and navigate to:  
      ```
      %LOCALAPPDATA%\TslGame\Saved
      ```
 ![Directory Path](navigation.png)  
-3. **Paste the Files**  
+
+4. **Paste the Files**  
    - Paste the entire `Observer` folder you downloaded into the above directory.  
 
-4. **Restart PUBG**  
+5. **Restart PUBG**  
    - Launch PUBG and enjoy your new killfeed icons!  
 
-5. **Celebrate**  
+6. **Celebrate**  
    - Winner Winner Chicken Dinner! 🐔  
 
 ---
